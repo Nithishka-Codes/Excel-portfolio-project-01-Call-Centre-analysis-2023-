@@ -83,9 +83,12 @@ This dashboard enables:
 	• Improved customer satisfaction strategies
 
 📂 Project Files
-File	Description
-https://1drv.ms/x/c/f0ce14ad2bb30570/IQA3DJVQZh7YRZogrV6vlxn0AaHhJZlbxA_9zUaFDNImQSM?e=mDIxtu	Main Excel dashboard with KPIs, charts, and analysis
-/assets/	Folder containing dashboard screenshots
+---------------------------------------------------------------------------------------------------------------
+|  File                                               |  Description                                          |
+|  (excel-portfolio-project-Call-Centre-Analysis.xlsx)|  Main Excel dashboard with KPIs, charts, and analysis |
+---------------------------------------------------------------------------------------------------------------
+|                                                     |  Folder containing dashboard screenshots   
+
 
 🖼️ Screenshots (Add after uploading)
 You can upload these images into the /assets folder:
