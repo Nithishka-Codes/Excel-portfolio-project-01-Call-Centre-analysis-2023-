@@ -83,20 +83,40 @@ This dashboard enables:
 	• Improved customer satisfaction strategies
 
 📂 Project Files
----------------------------------------------------------------------------------------------------------------
-|  File                                               |  Description                                          |
-|  (excel-portfolio-project-Call-Centre-Analysis.xlsx)|  Main Excel dashboard with KPIs, charts, and analysis |
----------------------------------------------------------------------------------------------------------------
-|                                                     |  Folder containing dashboard screenshots   
+-----------------------------------------------------------------------------------------------------------------------
+ [excel-portfolio-project-Call-Centre-Analysis.xlsx](excel-portfolio-project-Call-Centre-Analysis.xlsx)|  Main Excel dashboard with KPIs, charts, and analysis |
+-----------------------------------------------------------------------------------------------------------------------
 
 
-🖼️ Screenshots (Add after uploading)
-You can upload these images into the /assets folder:
-	• Dashboard Overview
-	• Monthly Trends
-	• Representative Performance
-	• Customer Table
-	• Ratings Summary
+🖼️ Screenshots 
+## 🖼️ Dashboard Screenshots
+
+### 📊 Dashboard Overview
+![Dashboard Overview](assets/dashboard-overview.png)
+
+### 📈 Monthly Trends
+![Monthly Trends](assets/monthly-trends.png)
+
+### 📅 Day-of-Week Call Distribution
+![Day-of-Week Calls](assets/day-of-week-calls.png)
+
+### 👥 Gender Breakdown by City
+![Gender Breakdown](assets/gender-breakdown.png)
+
+### ⭐ Customer Ratings Distribution
+![Customer Ratings](assets/customer-ratings.png)
+
+### 🧑‍💼 Representative Performance
+![Representative Performance](assets/rep-performance.png)
+
+### 🧮 Customer-Level Revenue Table
+![Customer Table](assets/customer-table.png)
+
+### 🔍 Representative Selector Panel
+![Rep Selector](assets/rep-selector.png)
+
+### 👤 Representative Profile Card
+![Rep Profile](assets/rep-profile.png)
 
 📬 Contact
 Nithishka
